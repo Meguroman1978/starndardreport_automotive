@@ -1,0 +1,5 @@
+{
+  "name": "Marketing Report AI Generator",
+  "description": "Automates the creation of marketing PowerPoint reports by analyzing dashboard screenshots with Gemini 2.5 Flash and generating native PPTX files.",
+  "requestFramePermissions": []
+}
